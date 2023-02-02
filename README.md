@@ -15,3 +15,5 @@ Designed the Parallax Website using HTML &amp; CSS only .
 
 
 <img width="1792" alt="Fifth" src="https://user-images.githubusercontent.com/117095684/216041669-b6b660dc-4760-4865-bb50-9bccce1f63ae.png">
+
+                                   -----------------------------------><-----------------------------------
