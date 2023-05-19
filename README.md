@@ -1,6 +1,7 @@
-# ParallaxWebsite
+# ParallaxWebpages
 
-Designed the Parallax Website using HTML &amp; CSS only .  
+Designed the Parallax Webpage using HTML &amp; CSS only .
+
 
 <img width="1792" alt="First" src="https://user-images.githubusercontent.com/117095684/216041581-fb321139-37ab-45b5-a488-e6440d015355.png">
 
